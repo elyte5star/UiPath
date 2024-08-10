@@ -1,0 +1,38 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CopyFlowchart.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "check_2&Sequence_25",
+        "check_1&Sequence_25",
+        "vk&Sequence_25",
+        "wit&Sequence_5",
+        "tr_out&Sequence_5",
+        "not_on_us_check&Sequence_15",
+        "on_us_check&Sequence_15",
+        "cash_in&Sequence_15",
+        "tr&Sequence_6"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
